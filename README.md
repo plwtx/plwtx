@@ -1,8 +1,8 @@
-<h1 >Len<h1>
+<h1>Len<h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plwtx&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+![Len's GitHub stats](https://github-readme-stats.vercel.app/api?username=plwtx&show_icons=true&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plwtx&show_icons=true&theme=radical&hide_border=true)](https://github.com/plwtx/github-readme-stats)
 
-<hr>
 <h2 align="Left">My Skillset:</h2>
 
 <p align="center">
