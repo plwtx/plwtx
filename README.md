@@ -6,12 +6,12 @@
 - 🇯🇵 / *JLPT N4*; (Still Studying)
 
 ### 🌟 | プロジェクト
-- `95%` | Portfolio;
-- `55%` | Chaidoro;
+- `95%` | plwtx.art;
+- `55%` | chaidoro.com;
 - `05%` | August; (Game)
 
 ### 💫 | プログラミング言語
 - React.JS;
 - TailwindCSS;
-- HTML / CSS / JS;**
+- HTML / CSS / JS;
 - Python;
