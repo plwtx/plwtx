@@ -6,9 +6,9 @@
 - 🇯🇵 / *JLPT N4*; (Still Studying)
 
 ### 🌟 | プロジェクト
-- `95%` | plwtx.art;
-- `55%` | chaidoro.com;
-- `05%` | August; (Game)
+-  plu.moe / Portfolio
+-  chainet.dev / Portfolio
+-  chaidoro.net / Open source Pomodoro client
 
 ### 💫 | プログラミング言語
 - React.JS;
