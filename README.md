@@ -11,6 +11,7 @@
 - React.JS;
 - TailwindCSS;
 - HTML / CSS / JS;
+- Rust;
 - Python;
 
 ### 🌟 | Projects | プロジェクト
