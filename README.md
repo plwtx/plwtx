@@ -5,6 +5,7 @@
 ### 🌎 | Languages | 語学 | 言語学
 - 🇬🇧 / *IELTS 7.5*;
 - 🇯🇵 / *JLPT N4*; (Still Studying)
+- 🇱🇹 / Currently Studying
 
 ### 💫 | Programming Languages | プログラミング言語
 - React.JS;
