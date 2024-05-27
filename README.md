@@ -4,20 +4,18 @@
 
 ### 🌎 | Languages | 語学 | 言語学
 - 🇬🇧 / *IELTS 7.5*;
-- 🇯🇵 / *JLPT N4*; (Still Studying)
 - 🇱🇹 / Currently Studying
+- 🇯🇵 / *JLPT N4*; (Still Studying)
 
 ### 💫 | Programming Languages | プログラミング言語
+- Rust;
+- Python;
 - React.JS;
 - TailwindCSS;
 - HTML / CSS / JS;
-- Rust;
-- Python;
+
 
 ### 🌟 | Projects | プロジェクト
 -  plu.moe / Portfolio website
 -  chainet.dev / Portfolio website
 -  chaidoro.net / Open source Pomodoro client
-#### 🚧 | Abandoned Projects | 放棄されたプロジェクト
-- plwtx.art / Portfolio website
-- August / Strategy Game
