@@ -4,8 +4,8 @@
 
 ### 🌎 | Languages | 語学 | 言語学
 - 🇬🇧 / *IELTS 7.5*;
-- 🇱🇹 / Currently Studying
-- 🇯🇵 / *JLPT N4*; (Still Studying)
+- 🇱🇹 / *Beginner*;
+- 🇯🇵 / *JLPT N4*;
 
 ### 💫 | Programming Languages | プログラミング言語
 - Rust;
