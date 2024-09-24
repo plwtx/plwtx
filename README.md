@@ -13,6 +13,7 @@ I use:
 - HTML / CSS / JS
 - React.js / TypeScript / Tailwind
 - GSAP / Lenis / ThreeJS / i18n
+- Blender / Figma
 ---
 ### 🌟 | Side Projects | プロジェクト
 -  [plu.moe](https://plu.moe/) / Artist Portfolio (mine)
