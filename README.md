@@ -1,21 +1,20 @@
-## 💮 こんにちは世界, レンです !
-- ウェブ 開発者;
-- 芸術家;
-
+## 💮 I am looking for job.
+### *I do not use my real name on internet*
+---
 ### 🌎 | Languages | 語学 | 言語学
-- 🇬🇧 / *IELTS 7.5*;
-- 🇱🇹 / *Beginner*;
-- 🇯🇵 / *JLPT N4*;
-
-### 💫 | Programming Languages | プログラミング言語
-- Rust;
-- Python;
-- React.JS;
-- TailwindCSS;
-- HTML / CSS / JS;
-
-
-### 🌟 | Projects | プロジェクト
--  plu.moe / Portfolio website
--  chainet.dev / Portfolio website
--  chaidoro.net / Open source Pomodoro client
+- 🇯🇵 / JLPT N4
+- 🇹🇷 / Native
+- 🇬🇧 / IELTS 7.5
+- 🇷🇺 / TORFL-II / B2
+- 🇱🇹 / *Beginner*
+---
+I use:
+- Linux
+- HTML / CSS / JS
+- React.js / TypeScript / Tailwind
+- GSAP / Lenis / ThreeJS / i18n
+---
+### 🌟 | Side Projects | プロジェクト
+-  [plu.moe](https://plu.moe/) / Artist Portfolio (mine)
+-  [bygretya.moe](https://bygretya.moe/) / Artist Portfolio 
+###### *I do not have my work projects listed here*
