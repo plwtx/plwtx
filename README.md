@@ -1,10 +1,10 @@
 # ___________
-### 🌎 | Linguistics | 語学 | 言語学
-- 🇯🇵 / JLPT N4
-- 🇹🇷 / Native
-- 🇬🇧 / IELTS 7.5
-- 🇷🇺 / TORFL-II / B2
-- 🇱🇹 / *Beginner*
+### Linguistics | 語学 | 言語学
+- JP / JLPT N4
+- TR / Native
+- EN / IELTS 7.5
+- RU / TORFL-II / B2
+- LT / *Beginner*
 ---
 I use:
 - Linux
