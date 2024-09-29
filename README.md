@@ -3,7 +3,6 @@
 - JP / JLPT N4
 - TR / Native
 - EN / IELTS 7.5
-- RU / TORFL-II / B2
 - LT / *Beginner*
 ---
 I use:
