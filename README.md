@@ -9,8 +9,8 @@ I use:
 - Linux
 - HTML / CSS / JS
 - React.js / TypeScript / Tailwind
-- GSAP / Lenis / ThreeJS / i18n
-- Blender / Figma
+- GSAP / Lenis / ThreeJS / i18n / etc.
+- Blender / Figma / etc.
 ---
 ### Side Projects | プロジェクト
 -  [plu.moe](https://plu.moe/) / Artist Portfolio (mine)
