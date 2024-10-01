@@ -6,10 +6,10 @@
 - LT / *Beginner*
 ---
 I use:
-- Linux
+- Linux / Fedora (Nobara)
 - HTML / CSS / JS
 - React.js / TypeScript / Tailwind
-- GSAP / Lenis / ThreeJS / i18n / etc.
+- GSAP / ThreeJS / i18n / etc.
 - Blender / Figma / etc.
 ---
 ### Side Projects | プロジェクト
