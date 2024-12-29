@@ -14,5 +14,6 @@ I use:
 ---
 ### Side Projects | プロジェクト
 -  [plu.moe](https://plu.moe/) / Artist Portfolio (mine)
--  [bygretya.moe](https://bygretya.moe/) / Artist Portfolio 
+-  [bygretya.moe](https://bygretya.moe/) / Artist Portfolio
+--- 
 ###### *I do not list my job projects here*
