@@ -9,7 +9,7 @@ I use:
 - Linux / Fedora (Nobara)
 - HTML / CSS / JS
 - React.js / TypeScript / Tailwind
-- GSAP / ThreeJS / i18n / etc.
+- GSAP / ThreeJS / Motion / i18n etc.
 - Blender / Figma / etc.
 ---
 ### Side Projects | プロジェクト
