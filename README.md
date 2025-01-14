@@ -13,7 +13,7 @@ I use:
 - Blender / Figma / etc.
 ---
 ### Side Projects | プロジェクト
--  [plu.moe](https://plu.moe/) / Artist Portfolio (mine)
--  [bygretya.moe](https://bygretya.moe/) / Artist Portfolio
+-  [plu.moe](https://plu.moe/) / Portfolio (Under development)
+-  [chaidoro.app](https://ch.chainet.dev/) / Focus timer
 --- 
 ###### *I do not list my job projects here*
