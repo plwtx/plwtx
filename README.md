@@ -14,6 +14,6 @@
 ---
 ### Hobby projects
 -  [plu.moe](https://plu.moe/) / Portfolio (Under development)
--  [chaidoro.app](https://ch.chainet.dev/) / Focus timer
+-  [chaidoro.app](https://chx.chainet.dev/) / Focus timer
 --- 
 ###### *I do not list my job projects here*
