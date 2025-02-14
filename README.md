@@ -1,5 +1,3 @@
-# ___________
----
 ### I use
 - Linux / Fedora (Nobara)
 - Rust / C++
