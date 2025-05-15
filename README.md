@@ -1,6 +1,7 @@
 ### I use
 - Linux / Fedora (Nobara)
 - Rust / C++
+- Django / MongoDB
 - React.js / TypeScript (HTML / CSS / JS)
 - Tailwind / GSAP / ThreeJS / Motion / i18n etc.
 - Blender / Figma / etc.
