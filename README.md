@@ -1,6 +1,6 @@
 ### I use
 - Linux / Fedora (+NixOS)
-- Rust / C++
+- Rust / C++ / Python
 - Django / MongoDB / PostgreSQL
 - React.js / TypeScript (HTML / CSS / JS)
 - Tailwind / GSAP / ThreeJS / Motion / i18n etc.
