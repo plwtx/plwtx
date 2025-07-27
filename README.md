@@ -1,9 +1,9 @@
 ### I use
-- Linux / Fedora (+NixOS)
+- Linux - NixOS
 - Rust / C++ / Python
 - Django / MongoDB / PostgreSQL
 - React.js / TypeScript (HTML / CSS / JS)
-- Tailwind / GSAP / ThreeJS / Motion / i18n etc.
+- Tailwind / GSAP / ThreeJS / Motion / i18n / etc.
 - Blender / Figma / etc.
 ---
 ### Linguistics
