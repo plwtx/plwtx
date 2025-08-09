@@ -18,7 +18,7 @@
 ###### * - *(not certified, estimate)*
 ---
 ### Hobby projects
--  [plu.moe](https://plu.moe/) / Portfolio (Under development)
--  [chaidoro.app](https://chx.chainet.dev/) / Focus timer
+-  [plu.moe](https://plu.moe/) / Portfolio
+-  [chai.study](https://chai.study/) / FOSS - Productivity app
 --- 
 ###### *I do not list my work projects here*
