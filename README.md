@@ -16,9 +16,5 @@
 | <img src="https://raw.githubusercontent.com/HatScripts/circle-flags/98574d233dd251130dbe8ebc73468f0a5568ace4/flags/gb.svg" alt="GB Flag" width="20" height="20">  | IELTS *7,5*    | `Suspended studies` |
 
 ###### * - *(not certified, estimate)*
----
-### Hobby projects
--  [plu.moe](https://plu.moe/) / Portfolio
--  [chai.study](https://chai.study/) / FOSS - Productivity app
 --- 
 ###### *I do not list my work projects here*
