@@ -8,7 +8,6 @@ Used to draw **([@plwtx](https://www.instagram.com/plwtx/))** but at present I m
 - Blender / Figma
 --- 
 
-###### PFP: [@nugochan](https://www.instagram.com/nugochan/) on Instagram
 ###### *I do not list my work projects here*. *neither I use my real name.
 
 
