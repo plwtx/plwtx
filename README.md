@@ -5,7 +5,7 @@ Used to draw **([@plwtx](https://www.instagram.com/plwtx/))** but at present I m
 ### Tech stack:
 - Linux - NixOS - Rust / Python - Django / MongoDB / PostgreSQL
 - React.js / TypeScript (HTML / CSS / JS) - Tailwind / GSAP / ThreeJS / Motion / i18n
-- Blender / Figma / Affinity
+- Blender / Figma / Affinity / Procreate
 --- 
 
 ###### *I do not list my client projects here*. *neither I use my real name.
