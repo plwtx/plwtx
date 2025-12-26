@@ -1,5 +1,5 @@
-### \Web developer specializing in front end.
-You can call me Len or Pluwia*. Besides coding I like vexillology, philosophy, linguistics and art. 
+### Web Developer | UI / UX Designer | FOSS Advocate & contributor.
+Hej ! you can call me Len or Pluwia*. Besides coding I like vexillology, philosophy, linguistics and art. 
 Used to draw **([@plwtx](https://www.instagram.com/plwtx/))** but at present I moslty code :>
 
 ### Tech stack:
