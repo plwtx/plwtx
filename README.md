@@ -2,7 +2,7 @@
 Hej ! you can call me Len or Pluwia*. Besides coding I like vexillology, philosophy, linguistics and art. 
 Used to draw **([@plwtx](https://www.instagram.com/plwtx/))** but at present I moslty code :>
 
-As of February, I am working on a 100% client side applications.
+In my free time, I am working on Chaidoro ([chai.study](chai.study)), client side focus / productivity application.
 
 ### Tech stack:
 - Linux - NixOS - Rust / Python - Django / MongoDB / PostgreSQL
