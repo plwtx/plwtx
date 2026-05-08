@@ -1,6 +1,6 @@
 ### Web Developer | UI / UX Designer | FOSS Advocate & contributor.
 Hej ! you can call me Len or Pluwia*. Besides coding I like vexillology, philosophy, linguistics and art. 
-Used to draw **([@plwtx](https://www.instagram.com/plwtx/))** but at present I moslty code :> ... I am a active member of [ChaiNET Community](http://chainet.dev/).
+Used to draw **([@plwtx](https://www.instagram.com/plwtx/))** but at present I moslty code :> ... I am an active member of [ChaiNET Community](http://chainet.dev/).
 
 In my free time, I am working on Chaidoro ([chai.study](https://github.com/plwtx/chai.study)), client side focus / productivity application.
 
