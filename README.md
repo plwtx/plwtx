@@ -17,3 +17,4 @@ In my free time, I am working on Chaidoro ([chai.study](https://github.com/plwtx
 --- 
 ###### PFP: GhosttFuneral (from the vn Milk Outside a Bag of Milk Outside a Bag of Milk by Nikita Kryukov)
 ###### *I do not list my client projects here*. *neither I use my real name.
+###### (｡╯︵╰｡) I just want to get a job.
