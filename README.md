@@ -7,7 +7,7 @@ In my free time, I am working on Chaidoro ([chai.study](https://github.com/plwtx
 ### Tech stack:
 - Linux - NixOS - Rust / Python
 - React.js / TypeScript (HTML / CSS / JS) - Tailwind / GSAP / Three.js / Motion / i18n / Zustand / PostgreSQL / Indexed DB (Dexie)
-- Vite / Next.js / Angular
+- Vite / Next.js / (Sometimes) Angular
 - Blender / Figma / Affinity / Procreate
 
 ### Personal repositories:
