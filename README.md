@@ -14,5 +14,10 @@ In my free time, I am working on Chaidoro ([chai.study](https://github.com/plwtx
 - [NixOS Configuration Files (/plwtx/nixos-config)](https://github.com/plwtx/nixos-config)
 - [Web Starter Kit (/plwtx/pluviaster)](https://github.com/plwtx/pluviaster)
 
+### Project repositories:
+- [Local productivity timer (/plwtx/chai.study)](https://github.com/plwtx/chai.study)
+- [3D model inspector (/Chai-NET/Porcelana)](https://github.com/Chai-NET/Porcelana)
+- [Link share system (/plwtx/linkcard)](https://github.com/plwtx/linkcard)
+
 --- 
 ###### *I do not list my client projects here*. *neither I use my real name.
