@@ -20,4 +20,4 @@ In my free time, I am working on Chaidoro ([chai.study](https://github.com/plwtx
 - [Link share system (/plwtx/linkcard)](https://github.com/plwtx/linkcard)
 
 --- 
-###### *I do not list my client projects here*. *neither I use my real name.
+###### *I do not host my client / work projects here*.
